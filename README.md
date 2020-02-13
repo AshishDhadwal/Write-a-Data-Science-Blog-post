@@ -36,21 +36,10 @@ Therefore, this simple analysis is aiming to clear below interesting points pop-
  -* The average age was 25.5,Maximum was 97 and Minimum was 10 
 
 #### *What was participation of atheletes throught years in both the olympics ? which country is the performer in all time in 120 years ?*
- - *Business Understanding :*
-   - To understand is different type of property and its pricing do playing an important role in determine customers favouritism.
- - *Methodology :*
-   - Generate the average pricing for each property type and its renting transactions.
- - *Findings :*
-   - Out of 19 different property types in both cities, surprisingly "Guesthouse" appears as most costly (i.e. USD289) property type as compare to the rest and follow by "Boat" and "Villa" with price of USD274 and USD190 respectively.
-   - But costly property types doesn't seem to be favorable by customers. In fact, substantial beds capacity by property type is the key factor to a guest favouritism during vacation i.e. "Apartment" with max capacity of 16 and "House" with 15.
+ The participation was increased in summer and winter olypics throught an olympics and for performance USA wins more medals in summer olympics and winter olympics Canada is the real winner 
  
-#### *Question 3. Are we able to classify positive or negative comments based on customers reviews ? And, what is the distribution ?*
- - *Business Understanding :*
-   - Analyzing and understand what is the feedback given by customers.
- - *Methodology :*
-   - Use Natural Language Toolkit to classify "positive" or "negative" comments from reviews sentence.
- - *Findings :*
-   - Both Boston and Seattle are getting excellent feedback from AirBNB guests and Seattle city is slightly outstanding with ~6p.p.
+#### *Can you find the average age of USA athelete which had won a medal*
+ Yes we were able to find the average age of athelete that had won a medal for USA in summer olympics it was 24-25 and in winter olympics it was 20-22.
 
 1. *"Olympics DataVisualization.ipynb"* is capturing the program scripting details especially on data understanding, exploration, cleaning and modeling (if relevant) part.
 2. *Blog post (https://medium.com/@adhadwal3/a-walk-through-olympics-game-620a5ed0cda2)* is mainly summarizing the business objective and its executive summary.
