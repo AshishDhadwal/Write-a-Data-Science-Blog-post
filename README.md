@@ -32,17 +32,10 @@ Therefore, this simple analysis is aiming to clear below interesting points pop-
 
 
 ### 4. Executive Summary
-#### *Question 1. Any seasonality impact to AirBNB monthly total earnings from both Seattle and Boston cities ?*
- - *Business Understanding :*
-    - Geographically, both cities are located far apart from each others; Seattle @West of United States & Boston @East of United States.
-    - Therefore, it causes their best travelling period slightly differ from each others i.e. Peak season is between Jun-Aug for Seattle vs. May-Oct for Boston as well as the pricing.
- - *Methodology :*
-    - Generate average AirBNB rental fee by month in both cities for comparison.
- - *Findings :*
-    - Generally, average AirBNB rental fee in Boston is 44% (USD198 vs. USD138) higher than Seattle city.
-    - It seems like the AirBNB pricing is seasonal fluctuations and interestingly, the pricing for both Low and Shoulder seasons are similar in Boston city (i.e. 10% more expensive for High season vs. Shoulder/Low seasons). Whereas in Seattle, it is 8% and 15% cheaper for Shoulder and Low season respectively as compare to High season.
+#### *What is the average/maximum/minimum age of atheletes ? *
+ -* The average age was 25.5,Maximum was 97 and Minimum was 10 
 
-#### *Question 2. What type of properties are more costly and is it relatively favorable ?*
+#### *What was participation of atheletes throught years in both the olympics ? which country is the performer in all time in 120 years ?*
  - *Business Understanding :*
    - To understand is different type of property and its pricing do playing an important role in determine customers favouritism.
  - *Methodology :*
