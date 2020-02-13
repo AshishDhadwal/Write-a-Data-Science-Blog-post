@@ -15,20 +15,20 @@ The code should run with no issues using Python versions 3.*.
 
 
 ### 2. Project Motivation
-This is an Udacity Data Scientist Nanodegree Program's project and I'm interested to explore more on AirBNB related data.
+This is an Udacity Data Scientist Nanodegree Program's project and I'm interested to explore more on Olympic Data.
 
-Therefore, this simple analysis is aiming to clear below interesting points pop-up about both Boston and Seattle AirBNB data we have :
-1. *Any seasonality impact to AirBNB monthly total earnings from both Seattle and Boston cities ?*
-2. *What type of properties are more costly and is it relatively favorable ?*
-3. *Are we able to classify positive or negative comments based on customers reviews ? And, what is the distribution ?*
+Therefore, this simple analysis is aiming to clear below interesting points pop-up about Olympic  data we have :
+1. *What is the average/maximum/minimum age of atheletes ? *
+2. *What was participation of atheletes throught years in both the olympics ? which country is the performer in all time in 120 years*
+3. *Can you find the average age of USA athelete which had won a medal *
 
 
 ### 3. File Descriptions
-- The data source for Seattle and Boston AirBNB data are available @ http://insideairbnb.com/get-the-data.html 
-- 3 different data files are available from each city such as
-  - *Calendar : Daily price and availability data per listing ID.*
-  - *Listings : Home-level information about AirBNB listings and inclusive their reviews scoring as well.*
-  - *Reviews : Review-level information such as "comments".*
+- The data source for olympic Data Set are available @https://www.kaggle.com/biphili/india-and-the-world-at-the-olympic-games/#data 
+- It has two .csv files:
+  - *athletes_events.csv : This data contain the athelete Partcipated in olympics. *
+  - * noc_regions.csv:This data contains NOC data which had participated*
+ 
 
 
 ### 4. Executive Summary
@@ -59,12 +59,12 @@ Therefore, this simple analysis is aiming to clear below interesting points pop-
  - *Findings :*
    - Both Boston and Seattle are getting excellent feedback from AirBNB guests and Seattle city is slightly outstanding with ~6p.p.
 
-1. *"WriteADataScienceBlogPost.ipynb"* is capturing the program scripting details especially on data understanding, exploration, cleaning and modeling (if relevant) part.
-2. *Blog post [YOU Spent but SOMEONE “Earn”…](https://medium.com/@eyanney.ang/you-spent-but-someone-earn-48fe84fd087d)* is mainly summarizing the business objective and its executive summary.
+1. *"Olympics DataVisualization.ipynb"* is capturing the program scripting details especially on data understanding, exploration, cleaning and modeling (if relevant) part.
+2. *Blog post (https://medium.com/@adhadwal3/a-walk-through-olympics-game-620a5ed0cda2)* is mainly summarizing the business objective and its executive summary.
 
 
 ### 5. Licensing, Authors, Acknowledgements
 1. Acknowledgements to 
    - Udacity Data Scientist Nano Degree courses for some of code ideas
-   - Kaggle/AirBnb for making the data available for analysis and you can find the Licensing for the data and other descriptive information at the Kaggle link available [here](http://insideairbnb.com/get-the-data.html).
+   - Kaggle for making the data available for analysis and you can find the Licensing for the data and other descriptive information at the Kaggle link available [here](http://insideairbnb.com/get-the-data.html).
 2. Otherwise, feel free to use the code here as you would like !
