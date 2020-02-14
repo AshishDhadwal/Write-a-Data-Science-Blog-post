@@ -43,7 +43,7 @@ Therefore, this simple analysis is aiming to clear below interesting points pop-
 
 1. *"Olympics DataVisualization.ipynb"* is capturing the program scripting details especially on data understanding, exploration, cleaning and modeling (if relevant) part.
 2. *Blog post (https://medium.com/@adhadwal3/a-walk-through-olympics-game-620a5ed0cda2)* is mainly summarizing the business objective and its executive summary.
-
+##NOTE-I did not drop missing values or nun values as they were categories dropping them will change some values in another rows .So usually ignore null values for particularly for some analysis.
 
 ### 5. Licensing, Authors, Acknowledgements
 1. Acknowledgements to 
